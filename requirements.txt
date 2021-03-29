@@ -1,3 +1,1 @@
-This program requires python module watchdog:
-
-pip3 install watchdog
+watchdog

@@ -1,6 +1,4 @@
 # FilesTracker
-Python program that tracks files in a specific directory and moves them to their destination folders, depending on each file type using watchdog.
-
 It can be very useful.
 
 If needed directory does not exist, this program will create them.

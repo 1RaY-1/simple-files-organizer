@@ -13,7 +13,7 @@ user = "" ### ENTER YOUR USERNAME HERE
 # the main folder to track
 folder_track = "/home/" + user + "/Downloads"
 
-# all possible folder destinations
+# all possible destinations
 image_folder = "/home/" + user + "/Downloads/Photos"
 video_folder = "/home/" + user + "/Downloads/Videos"
 music_folder = "/home/" + user + "/Downloads/Music"

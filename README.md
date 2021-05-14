@@ -1,7 +1,7 @@
 # FilesTracker
 It can be very useful.
 
-If needed directory does not exist, this program will create them.
+If needed directory does not exist, this program will create it itself.
 
 This program might work on Linux, Mac and Windows, but maybe you'll need to change directories.
 

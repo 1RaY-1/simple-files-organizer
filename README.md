@@ -18,8 +18,9 @@ Before you start using it, you need to enter your username and change directorie
 This program can work like a service, because when you run it you don't have to do nothing.
 
 # How it works
-If you let everything by default and you run it, this program will track the Downloads directory and if you moved a file for example with .mp3 extension program will create a folder named 'Music' in the Downloads directory if not created and will move this file to the 'Music' folder.
+If you let everything by default and you run it, this program will track the **Downloads** directory (Linux Downloads directory) and if you move there a file with for example with **.mp3** extension, program will create there (in Downloads directoy) a folder named 'Music', if not created and will move this file to the **Music** directory.
 
 # Note
 It isn't perfect, there are still lots of things that I think should be improved.
-I will try to improve this things soon.
+
+Maybe I will improve it soon.

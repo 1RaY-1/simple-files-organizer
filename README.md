@@ -1,5 +1,5 @@
 # About the program
-It's simple file organizer.
+It's a simple file organizer.
 
 If needed directory does not exist, this program will create it itself.
 

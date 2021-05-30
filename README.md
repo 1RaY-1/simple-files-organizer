@@ -1,5 +1,5 @@
 # About the program
-It can be very useful.
+It's simple file organizer.
 
 If needed directory does not exist, this program will create it itself.
 

@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+
+
 """ Before you start using it, you need to enter your username and change directories if needed """
 
 from watchdog.observers import Observer
